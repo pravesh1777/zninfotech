@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0277BD"
+    android:orientation="vertical"
+    tools:context=".Course_rc_view">
+
+    <ImageView
+        android:id="@+id/iv1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="320dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/add_circle_outline_24">
+    </ImageView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/coursess">
+
+    </ImageView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rec1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+    </androidx.recyclerview.widget.RecyclerView>
+
+     </LinearLayout>

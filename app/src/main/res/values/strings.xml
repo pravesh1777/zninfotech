@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZN_Enquiry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="ar1">
+        <item>Courses-></item>
+        <item>s2</item>
+        <item>s4</item>
+        <item>s5</item>
+        <item>s6</item>
+        <item>s7</item>
+        <item>s8</item>
+    </string-array>
+</resources>

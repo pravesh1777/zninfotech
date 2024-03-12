@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ar2">
+        <item>Position-></item>
+        <item>Admin</item>
+        <item>Manager</item>
+        <item>Faculty</item>
+
+    </string-array>
+</resources>
